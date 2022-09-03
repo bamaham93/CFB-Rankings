@@ -1,6 +1,7 @@
 import json
 import csv
 from config import year
+from checkScheduleIntegrity import ScheduleCheck
 
 # year = 2021
 
@@ -165,6 +166,12 @@ json_object = json.dumps(sched_list_a, indent=4)
 with open('data/schedules/' + str(year) + 'schedules.json', 'w') as outfile:
   outfile.write(json_object)
 
+
+#########################################################
+# Runs data integrity checks
+
+checks  = ScheduleCheck()
+checks.run()
 
 #########################################################
 # OPEN JSON FILE

@@ -18,7 +18,7 @@ class ScheduleCheck:
         """
         self.check_week_increments()
         self.check_season_lengths()
-        self.print_number_of_team()
+        self.print_number_of_teams()
     
     def check_week_increments(self):
         """
@@ -45,7 +45,7 @@ class ScheduleCheck:
             except AssertionError:
                 print(f"Error with {team['team']}'s season length. They have { len(team['reg_game_data']) } games listed.")
     
-    def print_number_of_team(self):
+    def print_number_of_teams(self):
         """
         Notifies the user how many teams are included.
         """
