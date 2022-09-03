@@ -1,7 +1,8 @@
 import json
 import csv
+from config import year
 
-year = 2021
+# year = 2021
 
 ############################################################
 # Import JSON Files
@@ -164,28 +165,36 @@ json_object = json.dumps(sched_list_a, indent=4)
 with open('data/schedules/' + str(year) + 'schedules.json', 'w') as outfile:
   outfile.write(json_object)
 
+
+#########################################################
+# OPEN JSON FILE
+# Schedules file
+f = open('data/schedules/' + str(year) + 'schedules.json')
+schedules_dict = json.load(f)
+
+
+
 #########################################################
 # Prep data for CSV format
 CSV_team_data = []
-team_csv_data = []
 
-for team in sched_list_a:
+for team in schedules_dict:
+  team_csv_data = []
+  # print(f"{team}\n")
   team_csv_data.append(team['id'])
   team_csv_data.append(team['team'])
   team_csv_data.append(team['year'])
   team_csv_data.append(team['classification'])
   team_csv_data.append(team['conference'])
- 
 
   for game in team['reg_game_data']:
     for k in game:
       team_csv_data.append(game[k])
 
-  for game in team['post_game_data']:
-    for k in game:
-      team_csv_data.append(game[k])
-
   CSV_team_data.append(team_csv_data)
+
+# print(len(CSV_team_data))
+
 #########################################################
 # WRITE TO CSV FILE
 csv_columns = ['id', 'team', 'year', 'classification', 'division', 'conference']
@@ -196,7 +205,7 @@ for i in range(18):
   for item in game_columns:
     csv_columns.append(item)
 
-with open('data/excel/' + str(year) + 'data.csv', 'w') as f:
+with open('data/excel/' + str(year) + 'data.csv', 'w', newline='') as f:
   write = csv.writer(f)
 
   write.writerow(csv_columns)
