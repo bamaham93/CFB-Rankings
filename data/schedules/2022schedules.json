@@ -1,0 +1,1703 @@
+[
+    {
+        "id": 2000,
+        "team": "Abilene Christian",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "Western Athletic",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Lamar",
+                "team_score": 28,
+                "opp_score": 14,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2006,
+        "team": "Akron",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "Mid-American",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "St Francis (PA)",
+                "team_score": 30,
+                "opp_score": 23,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2010,
+        "team": "Alabama A&M",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "SWAC",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "UAB",
+                "team_score": 0,
+                "opp_score": 59,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2011,
+        "team": "Alabama State",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "SWAC",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Howard",
+                "team_score": 23,
+                "opp_score": 13,
+                "result": 1,
+                "loc": 0.5,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "team": "Arizona State",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "Pac-12",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Northern Arizona",
+                "team_score": 40,
+                "opp_score": 3,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2046,
+        "team": "Austin Peay",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "Atlantic Sun",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Western Kentucky",
+                "team_score": 27,
+                "opp_score": 38,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2050,
+        "team": "Ball State",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "Mid-American",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Tennessee",
+                "team_score": 10,
+                "opp_score": 59,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2803,
+        "team": "Bryant",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "Big South",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Florida International",
+                "team_score": 37,
+                "opp_score": 38,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "team": "Cal Poly",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "Big Sky",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Fresno State",
+                "team_score": 7,
+                "opp_score": 35,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2097,
+        "team": "Campbell",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "Big South",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "The Citadel",
+                "team_score": 29,
+                "opp_score": 10,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2110,
+        "team": "Central Arkansas",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "Atlantic Sun",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Missouri State",
+                "team_score": 14,
+                "opp_score": 27,
+                "result": 0,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2117,
+        "team": "Central Michigan",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "Mid-American",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Oklahoma State",
+                "team_score": 44,
+                "opp_score": 58,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2429,
+        "team": "Charlotte",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "Conference USA",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Florida Atlantic",
+                "team_score": 13,
+                "opp_score": 43,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "team": "Connecticut",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "FBS Independents",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Utah State",
+                "team_score": 20,
+                "opp_score": 31,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2184,
+        "team": "Duquesne",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "NEC",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Florida State",
+                "team_score": 7,
+                "opp_score": 47,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2197,
+        "team": "Eastern Illinois",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "OVC",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Northern Illinois",
+                "team_score": 27,
+                "opp_score": 34,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2193,
+        "team": "East Tennessee State",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "Southern",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Mars Hill",
+                "team_score": 44,
+                "opp_score": 7,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2206,
+        "team": "Edward Waters",
+        "year": 2022,
+        "classification": "ii",
+        "conference": "SIAC",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Florida Memorial University",
+                "team_score": 34,
+                "opp_score": 39,
+                "result": 0,
+                "loc": 0.5,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "team": "Florida A&M",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "SWAC",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "North Carolina",
+                "team_score": 24,
+                "opp_score": 56,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2226,
+        "team": "Florida Atlantic",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "Conference USA",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Charlotte",
+                "team_score": 43,
+                "opp_score": 13,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2229,
+        "team": "Florida International",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "Conference USA",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Bryant",
+                "team_score": 38,
+                "opp_score": 37,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 125762,
+        "team": "Florida Memorial University",
+        "year": 2022,
+        "classification": null,
+        "conference": null,
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Edward Waters",
+                "team_score": 39,
+                "opp_score": 34,
+                "result": 1,
+                "loc": 0.5,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "team": "Florida State",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "ACC",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Duquesne",
+                "team_score": 47,
+                "opp_score": 7,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2230,
+        "team": "Fordham",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "Patriot",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Wagner",
+                "team_score": 48,
+                "opp_score": 31,
+                "result": 1,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 278,
+        "team": "Fresno State",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "Mountain West",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Cal Poly",
+                "team_score": 35,
+                "opp_score": 7,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "team": "Furman",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "Southern",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "North Greenville",
+                "team_score": 52,
+                "opp_score": 0,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2241,
+        "team": "Gardner-Webb",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "Big South",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Limestone",
+                "team_score": 56,
+                "opp_score": 21,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "team": "Hawai'i",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "Mountain West",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Vanderbilt",
+                "team_score": 10,
+                "opp_score": 63,
+                "result": 0,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "team": "Howard",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "MEAC",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Alabama State",
+                "team_score": 13,
+                "opp_score": 23,
+                "result": 0,
+                "loc": 0.5,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 304,
+        "team": "Idaho State",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "Big Sky",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "UNLV",
+                "team_score": 21,
+                "opp_score": 52,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 356,
+        "team": "Illinois",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "Big Ten",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Wyoming",
+                "team_score": 38,
+                "opp_score": 6,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 282,
+        "team": "Indiana State",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "MVFC",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "North Alabama",
+                "team_score": 17,
+                "opp_score": 14,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "team": "Jacksonville State",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "Atlantic Sun",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Stephen F. Austin",
+                "team_score": 42,
+                "opp_score": 17,
+                "result": 1,
+                "loc": 0.5,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 338,
+        "team": "Kennesaw State",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "Atlantic Sun",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Samford",
+                "team_score": 17,
+                "opp_score": 27,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2320,
+        "team": "Lamar",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "Southland",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Abilene Christian",
+                "team_score": 14,
+                "opp_score": 28,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2336,
+        "team": "Limestone",
+        "year": 2022,
+        "classification": "ii",
+        "conference": "South Atlantic",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Gardner-Webb",
+                "team_score": 21,
+                "opp_score": 56,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 124179,
+        "team": "Lincoln University (CA)",
+        "year": 2022,
+        "classification": null,
+        "conference": null,
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Texas A&M-Commerce",
+                "team_score": 7,
+                "opp_score": 52,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 112358,
+        "team": "Long Island University",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "NEC",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Toledo",
+                "team_score": 0,
+                "opp_score": 37,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2348,
+        "team": "Louisiana Tech",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "Conference USA",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Missouri",
+                "team_score": 24,
+                "opp_score": 52,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2369,
+        "team": "Mars Hill",
+        "year": 2022,
+        "classification": "ii",
+        "conference": "South Atlantic",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "East Tennessee State",
+                "team_score": 7,
+                "opp_score": 44,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2382,
+        "team": "Mercer",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "Southern",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Morehead State",
+                "team_score": 63,
+                "opp_score": 13,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "team": "Minnesota",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "Big Ten",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "New Mexico State",
+                "team_score": 38,
+                "opp_score": 0,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2400,
+        "team": "Mississippi Valley State",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "SWAC",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Tarleton State",
+                "team_score": 13,
+                "opp_score": 29,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "team": "Missouri",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "SEC",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Louisiana Tech",
+                "team_score": 52,
+                "opp_score": 24,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2623,
+        "team": "Missouri State",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "MVFC",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Central Arkansas",
+                "team_score": 27,
+                "opp_score": 14,
+                "result": 1,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2405,
+        "team": "Monmouth",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "CAA",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "New Hampshire",
+                "team_score": 21,
+                "opp_score": 31,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2413,
+        "team": "Morehead State",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "Pioneer",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Mercer",
+                "team_score": 13,
+                "opp_score": 63,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "team": "Nebraska",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "Big Ten",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Northwestern",
+                "team_score": 28,
+                "opp_score": 31,
+                "result": 0,
+                "loc": 0.5,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2440,
+        "team": "Nevada",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "Mountain West",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "New Mexico State",
+                "team_score": 23,
+                "opp_score": 12,
+                "result": 1,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "team": "New Hampshire",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "CAA",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Monmouth",
+                "team_score": 31,
+                "opp_score": 21,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "team": "New Mexico State",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "FBS Independents",
+        "game_data": [
+            {
+                "week": 0,
+                "opp": "Nevada",
+                "team_score": 12,
+                "opp_score": 23,
+                "result": 0,
+                "loc": 1,
+                "season_type": "regular"
+            },
+            {
+                "week": 1,
+                "opp": "Minnesota",
+                "team_score": 0,
+                "opp_score": 38,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2453,
+        "team": "North Alabama",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "Atlantic Sun",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Indiana State",
+                "team_score": 14,
+                "opp_score": 17,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "team": "North Carolina",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "ACC",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Florida A&M",
+                "team_score": 56,
+                "opp_score": 24,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2464,
+        "team": "Northern Arizona",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "Big Sky",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Arizona State",
+                "team_score": 3,
+                "opp_score": 40,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2459,
+        "team": "Northern Illinois",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "Mid-American",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Eastern Illinois",
+                "team_score": 34,
+                "opp_score": 27,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2822,
+        "team": "North Greenville",
+        "year": 2022,
+        "classification": "ii",
+        "conference": "Gulf South",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Furman",
+                "team_score": 0,
+                "opp_score": 52,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 249,
+        "team": "North Texas",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "Conference USA",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "UTEP",
+                "team_score": 31,
+                "opp_score": 13,
+                "result": 1,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "team": "Northwestern",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "Big Ten",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Nebraska",
+                "team_score": 31,
+                "opp_score": 28,
+                "result": 1,
+                "loc": 0.5,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "team": "Oklahoma State",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "Big 12",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Central Michigan",
+                "team_score": 58,
+                "opp_score": 44,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "team": "Penn State",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "Big Ten",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Purdue",
+                "team_score": 35,
+                "opp_score": 31,
+                "result": 1,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "team": "Pittsburgh",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "ACC",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "West Virginia",
+                "team_score": 38,
+                "opp_score": 31,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2502,
+        "team": "Portland State",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "Big Sky",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "San Jos\u00e9 State",
+                "team_score": 17,
+                "opp_score": 21,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2509,
+        "team": "Purdue",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "Big Ten",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Penn State",
+                "team_score": 31,
+                "opp_score": 35,
+                "result": 0,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "team": "Rhode Island",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "CAA",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Stony Brook",
+                "team_score": 35,
+                "opp_score": 14,
+                "result": 1,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2535,
+        "team": "Samford",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "Southern",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Kennesaw State",
+                "team_score": 27,
+                "opp_score": 17,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "team": "San Jos\u00e9 State",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "Mountain West",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Portland State",
+                "team_score": 21,
+                "opp_score": 17,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2569,
+        "team": "South Carolina State",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "MEAC",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "UCF",
+                "team_score": 10,
+                "opp_score": 56,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 253,
+        "team": "Southern Utah",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "Western Athletic",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "St. Thomas (MN)",
+                "team_score": 44,
+                "opp_score": 13,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2617,
+        "team": "Stephen F. Austin",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "Western Athletic",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Jacksonville State",
+                "team_score": 17,
+                "opp_score": 42,
+                "result": 0,
+                "loc": 0.5,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2598,
+        "team": "St Francis (PA)",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "NEC",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Akron",
+                "team_score": 23,
+                "opp_score": 30,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2619,
+        "team": "Stony Brook",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "CAA",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Rhode Island",
+                "team_score": 14,
+                "opp_score": 35,
+                "result": 0,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2900,
+        "team": "St. Thomas (MN)",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "Pioneer",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Southern Utah",
+                "team_score": 13,
+                "opp_score": 44,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2627,
+        "team": "Tarleton State",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "Western Athletic",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Mississippi Valley State",
+                "team_score": 29,
+                "opp_score": 13,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2633,
+        "team": "Tennessee",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "SEC",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Ball State",
+                "team_score": 59,
+                "opp_score": 10,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2837,
+        "team": "Texas A&M-Commerce",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "Southland",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Lincoln University (CA)",
+                "team_score": 52,
+                "opp_score": 7,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2643,
+        "team": "The Citadel",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "Southern",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Campbell",
+                "team_score": 10,
+                "opp_score": 29,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2649,
+        "team": "Toledo",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "Mid-American",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Long Island University",
+                "team_score": 37,
+                "opp_score": 0,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "team": "UAB",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "Conference USA",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Alabama A&M",
+                "team_score": 59,
+                "opp_score": 0,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2116,
+        "team": "UCF",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "American Athletic",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "South Carolina State",
+                "team_score": 56,
+                "opp_score": 10,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2439,
+        "team": "UNLV",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "Mountain West",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Idaho State",
+                "team_score": 52,
+                "opp_score": 21,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 328,
+        "team": "Utah State",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "Mountain West",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Connecticut",
+                "team_score": 31,
+                "opp_score": 20,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2638,
+        "team": "UTEP",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "Conference USA",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "North Texas",
+                "team_score": 13,
+                "opp_score": 31,
+                "result": 0,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2630,
+        "team": "UT Martin",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "OVC",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Western Illinois",
+                "team_score": 42,
+                "opp_score": 25,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 238,
+        "team": "Vanderbilt",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "SEC",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Hawai'i",
+                "team_score": 63,
+                "opp_score": 10,
+                "result": 1,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2678,
+        "team": "VMI",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "Southern",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Wake Forest",
+                "team_score": 10,
+                "opp_score": 44,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2681,
+        "team": "Wagner",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "NEC",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Fordham",
+                "team_score": 31,
+                "opp_score": 48,
+                "result": 0,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "team": "Wake Forest",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "ACC",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "VMI",
+                "team_score": 44,
+                "opp_score": 10,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2692,
+        "team": "Weber State",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "Big Sky",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Western Oregon",
+                "team_score": 41,
+                "opp_score": 5,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2710,
+        "team": "Western Illinois",
+        "year": 2022,
+        "classification": "fcs",
+        "conference": "MVFC",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "UT Martin",
+                "team_score": 25,
+                "opp_score": 42,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "team": "Western Kentucky",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "Conference USA",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Austin Peay",
+                "team_score": 38,
+                "opp_score": 27,
+                "result": 1,
+                "loc": 1,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2848,
+        "team": "Western Oregon",
+        "year": 2022,
+        "classification": "ii",
+        "conference": "Lone Star",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Weber State",
+                "team_score": 5,
+                "opp_score": 41,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 277,
+        "team": "West Virginia",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "Big 12",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Pittsburgh",
+                "team_score": 31,
+                "opp_score": 38,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 2751,
+        "team": "Wyoming",
+        "year": 2022,
+        "classification": "fbs",
+        "conference": "Mountain West",
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Illinois",
+                "team_score": 6,
+                "opp_score": 38,
+                "result": 0,
+                "loc": 0,
+                "season_type": "regular"
+            }
+        ]
+    },
+    {
+        "id": 1000899,
+        "team": "Edward Waters",
+        "year": 2022,
+        "classification": null,
+        "conference": null,
+        "game_data": [
+            {
+                "week": 1,
+                "opp": "Florida Memorial University",
+                "team_score": 34,
+                "opp_score": 39,
+                "result": 0,
+                "loc": 0.5,
+                "season_type": "regular"
+            }
+        ]
+    }
+]
