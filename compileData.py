@@ -1,5 +1,5 @@
 import json
-from tkinter import W
+import csv
 
 year = 2021
 
@@ -113,18 +113,18 @@ for team in team_schedules:
 
 # Formula to check if team has a game each week and insert null games
 def check_week(x, team):
-  null_game_reg = {
+  null_game_reg_a = {
   'week' : x,
-  "opp" : None,
-  "team_score" : None,
-  "opp_score" : None,
-  "result" : None,
-  "loc" : None,
+  "opp" : 0,
+  "team_score" : 0,
+  "opp_score" : 0,
+  "result" : 0,
+  "loc" : 0,
   'season_type' : 'regular'
 }
   try:
     if team['reg_game_data'][x]['week'] != x and team['reg_game_data'][x]['season_type'] != 'postseason':
-      team['reg_game_data'].insert(x, null_game_reg)
+      team['reg_game_data'].insert(x, null_game_reg_a)
   except:
     exit
 
@@ -138,23 +138,23 @@ for team in sched_list_a:
 # Add null games up to 15 games per team
 
 for team in sched_list_a:
-  null_game_reg = {
-  'week' : None,
-  "opp" : None,
-  "team_score" : None,
-  "opp_score" : None,
-  "result" : None,
-  "loc" : None,
-  'season_type' : 'regular'
-}
+  def insert_game(x, team):
+    null_game_reg_b = {
+    'week': x,
+    "opp": 0,
+    "team_score": 0,
+    "opp_score": 0,
+    "result": 0,
+    "loc": 0,
+    'season_type': 'regular'
+    }
+    team['reg_game_data'].append(null_game_reg_b)
+
   season_length = len(team['reg_game_data'])
   if season_length < 16:
-    x = 16 - season_length
-    for i in range(x):
-      null_game_reg['week'] = season_length
-      team['reg_game_data'].append(null_game_reg)
-      
-
+    # x = 16 - season_length
+    for i in range(season_length, 16):
+      insert_game(i, team)
 
 #########################################################
 # WRITE TO JSON FILE
@@ -163,3 +163,41 @@ json_object = json.dumps(sched_list_a, indent=4)
 
 with open('data/schedules/' + str(year) + 'schedules.json', 'w') as outfile:
   outfile.write(json_object)
+
+#########################################################
+# Prep data for CSV format
+CSV_team_data = []
+team_csv_data = []
+
+for team in sched_list_a:
+  team_csv_data.append(team['id'])
+  team_csv_data.append(team['team'])
+  team_csv_data.append(team['year'])
+  team_csv_data.append(team['classification'])
+  team_csv_data.append(team['conference'])
+ 
+
+  for game in team['reg_game_data']:
+    for k in game:
+      team_csv_data.append(game[k])
+
+  for game in team['post_game_data']:
+    for k in game:
+      team_csv_data.append(game[k])
+
+  CSV_team_data.append(team_csv_data)
+#########################################################
+# WRITE TO CSV FILE
+csv_columns = ['id', 'team', 'year', 'classification', 'division', 'conference']
+
+game_columns = ['week', 'opp', 'team score', 'opp score', 'result', 'location', 'season type']
+
+for i in range(18):
+  for item in game_columns:
+    csv_columns.append(item)
+
+with open('data/excel/' + str(year) + 'data.csv', 'w') as f:
+  write = csv.writer(f)
+
+  write.writerow(csv_columns)
+  write.writerows(CSV_team_data)
